@@ -1,2 +1,2 @@
 # Time Sort
-*Time will pit everything on its places*
+*Time will put everything on its places*
